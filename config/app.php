@@ -1,9 +1,8 @@
 <?php
 
 // Leave the driver as mysql
-// Replace the host with your ip address (54.159.111.221) of the ec2 instance or
-// the Public DNS (ex. ec2-54-159-111-221.compute-1.amazonaws.com. These are found on your
-// AWS ec2 instance homepage)
+// Replace the host with your ip address of the ec2 instance or the Public DNS (ex. ec2-XXX-XXX-XXX-XXX.compute-1.amazonaws.com. 
+// These are found on your AWS ec2 instance homepage)
 // dbname is the name of your database
 // Leave the port as 3306
 // replace text below with your credentials for username and password for your database
